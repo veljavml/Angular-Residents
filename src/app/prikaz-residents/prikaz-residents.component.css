@@ -1,0 +1,16 @@
+.demo-table {
+    width: 100%;
+  }
+  
+  
+  .mat-row:hover {
+    background-color: rgba(199, 78, 78, 0.694);
+    font-weight: bold;
+    border-bottom: 3px solid black;
+    border-top: 3px solid black;
+
+  }
+
+.klasa2{
+  margin-top: 10px;
+}

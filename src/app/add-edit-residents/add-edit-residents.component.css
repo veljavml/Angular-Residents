@@ -1,0 +1,10 @@
+.klasa1{
+    margin-left: 100px;
+}
+
+.parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
