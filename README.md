@@ -1,5 +1,14 @@
 # ResidentsAPI
 
+# Page that shows all data from database
+
+![image](https://user-images.githubusercontent.com/111191947/211356268-9e1e3736-514e-4b3e-afb3-6891699e1000.png)
+
+#Add or edit Resident
+
+![image](https://user-images.githubusercontent.com/111191947/211356407-04e3ca4d-3bf6-47c9-b94b-8def3c329c2d.png)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.8.
 
 ## Development server
